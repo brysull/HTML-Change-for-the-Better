@@ -38,9 +38,9 @@ nav a,
 
 nav img,
 .nav img {
-    height: 33%;
     float: left;
-    margin-bottom: 6px;
+    margin-bottom: 2px;
+    margin-top: 6px;
 }
 
 main,
